@@ -26,4 +26,4 @@ Die Legendären Gebäude können hier übersichtlich sowohl nach Spieler oder Ge
 <img width="1249" height="383" alt="image" src="https://github.com/user-attachments/assets/5b0c554f-923c-4eb8-9897-018ffbd29a01" />
 
 
-Die Datei foe_gildenkasse_*.accdb ist für user gedacht die Microsoft Access besitzen. Für alle anderen ist die standalone variante. Hierfür wird lediglich eine frei verfügbare Runtime von Microsoft benötigt. Diese kann hier gefunden werden: support.microsoft.com/de-de/office/herunterladen-und-installieren-von-microsoft-365-access-runtime-185c5a32-8ba9-491e-ac76-91cbe3ea09c9
+Die Datei foe_gildenkasse_*.accdb ist für user gedacht die Microsoft Access besitzen. Für alle anderen ist die standalone variante. Hierfür wird lediglich eine frei verfügbare Runtime von Microsoft benötigt. Diese kann hier gefunden werden: https://support.microsoft.com/de-de/office/herunterladen-und-installieren-von-microsoft-365-access-runtime-185c5a32-8ba9-491e-ac76-91cbe3ea09c9
