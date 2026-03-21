@@ -17,8 +17,7 @@ Gildenkasse
 <img width="1203" height="958" alt="image" src="https://github.com/user-attachments/assets/cc833196-cb13-48a9-b3e5-babf63e659f0" />
 Eine Übersicht über alle Spieler und deren Produktion, Spenden sowie verursachte Kosten. Die Berechnung der Kosten ist wie folgt:
 Rohstoffzahlung in der Gildenkasse / alle Spieler in dem Zeitalter dem der Rohstoff zugeordnet ist.
-Hierbei ist wichtig zu beachten das die Rechnung derzeit nur das aktuelle Zeitalter des Spielers berücksichtigt. Sollte ein Spieler in dem angezeigten Zeitraum das Zeitalter gewechselt haben, oder die Gilde verlassen haben, stimmen die Daten nichtmehr exakt.
-Es ist aber meiner Meinung nach, dennoch ein guter Richtwert.
+Hierbei ist wichtig zu beachten das die Rechnung das Zeitalter des Spielers berücksichtigt. Sollten mehrere Member***.csv dateien importiert werden, erstellt die Datenbank einträge für jede Zeitalteränderung. Gerade beim ersten befüllen der Datenbank kann es jedoch sein das solche Zeitalterwechsel noch von Hand nachgetragen werden müssen, um korrekte Kosten zu ermitteln.
 
 Legendäre Gebäude
 <img width="1299" height="1006" alt="image" src="https://github.com/user-attachments/assets/85b7b4f6-df8c-44f1-889f-59d84af2001a" />
